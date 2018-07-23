@@ -52,6 +52,8 @@ How to use AWS Certificate Manager with CloudFormation and CloudFront.
 
 [How to Translate HIPAA Controls to AWS CloudFormation Templates](https://aws.amazon.com/blogs/security/how-to-translate-hipaa-controls-to-aws-cloudformation-templates-part-3-of-the-automating-hipaa-compliance-series/) - A few security related Template examples.
 
+[Up your AWS CloudFormation game with Visual Studio Code](https://hodgkins.io/up-your-cloudformation-game-with-vscode) - Some tips on improving efficiency when working with AWS CloudFormation in Visual Studio Code.
+
 <a name="videos" />
 
 ## Videos
